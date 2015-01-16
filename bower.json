@@ -1,0 +1,29 @@
+{
+  "name": "testePolymer",
+  "version": "0.0.1",
+  "description": "Polymer Tests",
+  "main": "index.html",
+  "keywords": [
+    "polymer",
+    "tests"
+  ],
+  "authors": [
+    "Tales Bitelo Viegas"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.2",
+    "core-header-panel": "Polymer/core-header-panel",
+    "core-toolbar": "Polymer/core-toolbar",
+    "paper-tabs": "Polymer/paper-tabs",
+    "font-roboto": "Polymer/font-roboto",
+    "core-ajax": "Polymer/core-ajax"
+  }
+}
